@@ -112,6 +112,10 @@ body {
   background-color: #f5f1e8;
 }
 
+.about .col-lg-6 {
+  display: flex;
+}
+
 .section-title {
   text-align: center;
   font-size: 36px;
